@@ -1,0 +1,21 @@
+user_id,content_id,timestamp,watch_time,device_type,location,is_completed
+1001,Stranger Things,2024-04-01 10:00:00,45,mobile,New York,TRUE
+1002,The Crown,2024-04-01 10:05:00,60,tv,Los Angeles,TRUE
+1003,Bridgerton,2024-04-01 10:10:00,30,web,Chicago,FALSE
+1004,Stranger Things,2024-04-01 10:15:00,15,tablet,Houston,FALSE
+1005,The Crown,2024-04-01 10:20:00,55,tv,Phoenix,TRUE
+1006,Wednesday,2024-04-01 10:25:00,40,mobile,New York,TRUE
+1007,Bridgerton,2024-04-01 10:30:00,25,web,Los Angeles,FALSE
+1008,Wednesday,2024-04-01 10:35:00,50,tv,Chicago,TRUE
+1009,Stranger Things,2024-04-01 10:40:00,35,tablet,Houston,TRUE
+1010,The Crown,2024-04-01 10:45:00,20,mobile,Phoenix,FALSE
+1011,Wednesday,2024-04-01 10:50:00,45,web,New York,TRUE
+1012,Bridgerton,2024-04-01 10:55:00,55,tv,Los Angeles,TRUE
+1013,Stranger Things,2024-04-01 11:00:00,30,mobile,Chicago,FALSE
+1014,The Crown,2024-04-01 11:05:00,40,tablet,Houston,TRUE
+1015,Wednesday,2024-04-01 11:10:00,25,web,Phoenix,FALSE
+1016,Squid Game,2024-04-01 11:15:00,58,tv,New York,TRUE
+1017,Stranger Things,2024-04-01 11:20:00,48,mobile,Los Angeles,TRUE
+1018,The Crown,2024-04-01 11:25:00,32,web,Chicago,FALSE
+1019,Wednesday,2024-04-01 11:30:00,42,tablet,Houston,TRUE
+1020,Bridgerton,2024-04-01 11:35:00,27,mobile,Phoenix,FALSE 

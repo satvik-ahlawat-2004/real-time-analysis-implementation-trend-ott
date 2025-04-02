@@ -1,0 +1,16 @@
+user_id,content_id,timestamp,watch_time,device_type,location,is_completed
+1001,Stranger Things,2024-02-20 10:00:00,45,mobile,New York,true
+1002,The Crown,2024-02-20 10:05:00,60,tv,Los Angeles,true
+1003,Bridgerton,2024-02-20 10:10:00,30,web,Chicago,false
+1004,Stranger Things,2024-02-20 10:15:00,15,tablet,Houston,false
+1005,The Crown,2024-02-20 10:20:00,55,tv,Phoenix,true
+1006,Wednesday,2024-02-20 10:25:00,40,mobile,New York,true
+1007,Bridgerton,2024-02-20 10:30:00,25,web,Los Angeles,false
+1008,Wednesday,2024-02-20 10:35:00,50,tv,Chicago,true
+1009,Stranger Things,2024-02-20 10:40:00,35,tablet,Houston,true
+1010,The Crown,2024-02-20 10:45:00,20,mobile,Phoenix,false
+1011,Wednesday,2024-02-20 10:50:00,45,web,New York,true
+1012,Bridgerton,2024-02-20 10:55:00,55,tv,Los Angeles,true
+1013,Stranger Things,2024-02-20 11:00:00,30,mobile,Chicago,false
+1014,The Crown,2024-02-20 11:05:00,40,tablet,Houston,true
+1015,Wednesday,2024-02-20 11:10:00,25,web,Phoenix,false 
